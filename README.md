@@ -14,7 +14,7 @@ Install dependencies
 
 Set up environment variable
 
-Start the backend server: npm start
+Start the backend server: npm run dev
 
 Start the frontend server: npm start
 
